@@ -1,7 +1,7 @@
 # Floricultura
 Aula2 SENAI
 <h1>Trabalho pedido pelo Professor Igor</h1>
-<a href="https://br.freepik.com/fotos-gratis/lindo-buque-de-rosas_9235679.htm#query=Arranjos%20de%20Flores&position=9&from_view=search&track=ais">Imagem de kbza</a> no Freepik
+<img src="https://img.freepik.com/fotos-gratis/lindo-buque-de-rosas_24837-420.jpg?w=1060&t=st=1683153750~exp=1683154350~hmac=f2befe661b428d653e2ee8f83cca0b1573536e67080a03b321c9d883ac4164e2" alt="fror">
 <p>O site se refere a uma empresa fictícia floricultura. Tudo feito conforme o professor pediu</p>
 <p>Temos em cima de tudo um NavBar onde uma imagem fica alocada toda a esquerda e as opções de navegação todas a direita</p>
 <p>Logo em seguida temos um banner</p>
